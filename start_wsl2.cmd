@@ -1,0 +1,1 @@
+PowerShell ./wsl2.ps1
